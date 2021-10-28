@@ -21,7 +21,7 @@ hide_footer: true
 ### Postdocs
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
 - [Minudri, Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
-- [Gallastegui, Antonela](/gallastegui) (Química, UNRC, CONICET)
+- [Gallastegui, Antonela](/gallastegui) (Química, POLYMAT, San Sebastián)
 - [Ponzio, Rodrigo](/ponzio) (Física, UNRC, CONICET)
 
 ### Estudiantes Postgrado
