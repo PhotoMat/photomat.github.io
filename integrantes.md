@@ -16,7 +16,7 @@ hide_footer: true
 - [Ibarra, Luis](/ibarra) (Dpto. Biología Molecular, UNRC-  Investigador Asistente CONICET)
 - [Porcal, Gabriela](/porcal) (Dpto. Química, UNRC  - Investigadora Adjunta CONICET)
 - [Martínez, Sol Romina](/martinez) (Dpto. Química, UNRC, CONICET)
-- [Odella, Emmanuel](/Odella) (Dpto. Química, UNRC, CONICET)
+- [Odella, Emmanuel](/odella) (Dpto. Química, UNRC, CONICET)
 
 ### Postdocs
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)

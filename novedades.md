@@ -10,7 +10,7 @@ hide_footer: true
 # 2021
 
 #### OCTUBRE
->Tenemos el agrado de informar de los nuevos Ingresos a Carreras de Investigador Científico y Tecnológico (CIC). La [Dra. Sol Martínez](/martinez) ingresa como investigadora con la temática: "Nanopartículas fotoactivas eficientes para el tratamiento de patógenos asociados a la mastitis bovina" , y además, el [Dr. Emmanuel Odella](/Odella) ingresa como investigador con la temática: "Nanopartículas de polímeros conjugados como sistemas fotoiniciadores de polimerización: aplicación en el reconocimiento molecular". ¡¡¡Éxistos en esta nueva etapa!!!
+>Tenemos el agrado de informar de los nuevos Ingresos a Carreras de Investigador Científico y Tecnológico (CIC). La [Dra. Sol Martínez](/martinez) ingresa como investigadora con la temática: "Nanopartículas fotoactivas eficientes para el tratamiento de patógenos asociados a la mastitis bovina" , y además, el [Dr. Emmanuel Odella](/odella) ingresa como investigador con la temática: "Nanopartículas de polímeros conjugados como sistemas fotoiniciadores de polimerización: aplicación en el reconocimiento molecular". ¡¡¡Éxistos en esta nueva etapa!!!
 
 >El 14 de Octubre presentamos nuestro [PITCH](https://www.instagram.com/p/CVBFdN8ghl1/) que aborda el desarrollo de nanoportículas de polímeros conjugados e hidrogeles fotoactivables con la capacidad de eliminar microorganismos resintentes a antibioticos con el objetivo de generar nuevas metodologías terapéutricas evitando el uso de antibióticos. Dicho evento, VINCULAR CÓRDOBA (7ma edición), fue organizado por diversas organizaciones de la provincia y podes presenciarlo desde el [link](https://www.youtube.com/watch?v=ijvBF0RfuSg).
 
