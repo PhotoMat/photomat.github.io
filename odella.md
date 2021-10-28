@@ -1,12 +1,13 @@
 ---
 title: Dr. Emmanuel Odella
 subtitle: Grupo de Fotoquímica y Materiales
-dpto: Dpto. Química, UNRC<br>Investigador CONICET
+dpto: Dpto. de Química, UNRC
 layout: integrante
 image: /img/eodella.jpg
+cv:
 orcid: 0000-0002-7021-400X
 email: emmaodella@hotmail.com
-Skype: emmaodella
+skype: emmaodella
 callouts:
 show_sidebar: false
 hide_footer: true
