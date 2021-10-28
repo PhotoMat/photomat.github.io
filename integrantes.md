@@ -15,16 +15,16 @@ hide_footer: true
 ### Investigadores
 - [Ibarra, Luis](/ibarra) (Dpto. Biología Molecular, UNRC-  Investigador Asistente CONICET)
 - [Porcal, Gabriela](/porcal) (Dpto. Química, UNRC  - Investigadora Adjunta CONICET)
+- [Martínez, Sol Romina](/martinez) (Dpto. Química, UNRC, CONICET)
+- [Odella, Emmanuel](/Odella) (Dpto. Química, UNRC, CONICET)
 
 ### Postdocs
-- [Martínez, Sol Romina](/martinez) (Dpto. Química, UNRC, CONICET)
 - [Achilli, Estefanía Edith](/achilli) (IMBICE - Grup. Biología Estructural y Biotecnología UNQ- GBEYB; Instituto multidisciplinario de biología Celular)
 - [Minudri, Daniela](/minudri) (Dpto. Química, UNRC, CONICET)
 - [Gallastegui, Antonela](/gallastegui) (Química, UNRC, CONICET)
 - [Ponzio, Rodrigo](/ponzio) (Física, UNRC, CONICET)
 
 ### Estudiantes Postgrado
-- [Spada, Ramiro](/spada) (Química, UNRC, CONICET)
 - [Cagnetta, Gonzalo](/cagnetta) (Química, UNRC)
 - [Wendel, Ana](/wendel) (Física, UNRC)
 - [Beaugé, Lucia](/beauge) (Microbiología, UNRC)

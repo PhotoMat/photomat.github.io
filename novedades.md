@@ -9,7 +9,15 @@ hide_footer: true
 
 # 2021
 
-#### ABRIL
+#### OCTUBRE
+>Tenemos el agrado de informar de los nuevos Ingresos a Carreras de Investigador Científico y Tecnológico (CIC). La [Dra. Sol Martínez](/martinez) ingresa como investigadora con la temática: "Nanopartículas fotoactivas eficientes para el tratamiento de patógenos asociados a la mastitis bovina" , y además, el [Dr. Emmanuel Odella](/Odella) ingresa como investigador con la temática: "Nanopartículas de polímeros conjugados como sistemas fotoiniciadores de polimerización: aplicación en el reconocimiento molecular". ¡¡¡Éxistos en esta nueva etapa!!!
+
+>El 14 de Octubre presentamos nuestro [PITCH](https://www.instagram.com/p/CVBFdN8ghl1/) que aborda el desarrollo de nanoportículas de polímeros conjugados e hidrogeles fotoactivables con la capacidad de eliminar microorganismos resintentes a antibioticos con el objetivo de generar nuevas metodologías terapéutricas evitando el uso de antibióticos. Dicho evento, VINCULAR CÓRDOBA (7ma edición), fue organizado por diversas organizaciones de la provincia y podes presenciarlo desde el [link](https://www.youtube.com/watch?v=ijvBF0RfuSg).
+
+#### SEPTIEMBRE
+>Estamos en el congreso MAB VII!!! Podés ver nuestro resumen en la página web del congreso [@MAB2021](http://mabvii.qi.fcen.uba.ar/assets/resumenes/62.pdf) el cual se titula: "NANOPARTÍCULAS DE POLÍMEROS CONJUGADOS COMO MACROFOTOINICIADORES DE FOTOPOLIMERIZACIÓN: SÍNTESIS DE NANOHIDROGELES Y MACROHIDROGELES" 
+
+#### MAYO
 > El 1 de abril [Arianna Sosa Lochedino](/lochedino) comenzó sus estudios doctorales el cual se titula "Síntesis y caracterización de nanopartículas de polímeros conjugados con aplicaciones en la terapia fotodinámica contra el cáncer y la inactivación fotodinámica microbiana" bajo la dirección de los Drs. [Rodrigos Palacios](/palacios) y [Carlos Chesta](/chesta) ¡Éxitos en esta nueva etapa!
 Recordá que también podés conocer nuestros integrantes y proyectos en nuestras redes [Instagram](https://www.instagram.com/photomat.unrc/) o [Facebook](https://www.facebook.com/PhotoMat-UNRC-681159092336902).
 

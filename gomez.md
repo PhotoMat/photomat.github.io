@@ -18,5 +18,4 @@ Lic y Dra en Cs Químicas. Desarrolló su tesis doctoral estudiando el mecanismo
 
 - Hidrogeles obtenidos por fotopolimerización como sistemas de encapsulación/liberación controlada de principios activos; así como el desarrollo de parches para la cicatrización y desinfección de heridas. También se están llevando a cabo el desarrollo de nanogeles con propiedades teragnósticas y el desarrollo de partículas híbridas para la remoción de contaminantes, entre otros temas.
 - Desarrollo de películas de silsesquioxano como materiales fotoluminiscentes, películas para la descontaminación de aguas, películas para el tratamiento alternativo de infecciones bacteriana, desarrollo de sensores radiométricos de Oxígeno, entre otras aplicaciones.
-
 En lo personal prioriza las relaciones personales y la calidad humana en todos los ámbitos; practica yoga y disfruta de la vida en familia y cenas con amigos.
