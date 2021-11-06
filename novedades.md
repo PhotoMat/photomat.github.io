@@ -10,7 +10,7 @@ hide_footer: true
 # 2021
 
 #### NOVIEMBRE
-> Felicitamos a nuestra becaria doctoral, [Lucia Beaugé](/beauge), por recibir su diploma de grado, en la primera colación presencial y remota número 281, conocé mas en el [link](/https://www.unrc.edu.ar/inc/n_completa.php?nota=36244#:~:text=La%20UNRC%20concret%C3%B3%20la%20primera%20colaci%C3%B3n%20presencial%20y%20remota%20de%20su%20historia,-05%20de%20Noviembre&text=Este%20viernes%205%20de%20noviembre,a%20distancia%2C%20en%20cincuenta%20a%C3%B1os). FELICITACIONES FLAMANTE MICROBIÓLOGA!!!!
+> Felicitamos a nuestra becaria doctoral, [Lucia Beaugé](/beauge), por recibir su diploma de grado, en la primera colación presencial y remota número 281, conocé mas en el [link](https://www.unrc.edu.ar/inc/n_completa.php?nota=36244#:~:text=La%20UNRC%20concret%C3%B3%20la%20primera%20colaci%C3%B3n%20presencial%20y%20remota%20de%20su%20historia,-05%20de%20Noviembre&text=Este%20viernes%205%20de%20noviembre,a%20distancia%2C%20en%20cincuenta%20a%C3%B1os). FELICITACIONES FLAMANTE MICROBIÓLOGA!!!!
 
 #### OCTUBRE
 > Felicitamos a nuestro becario, [Matías Caverzán](/caverzan), por recibir el premio Federico Gullace entregado por La Asociación Argentina de Ciencia y Tecnología de Animales de Laboratorio (AACyTAL) por el trabajo "ANTITUMORAL EFFICACY AND BIOSAFETY EVALUATION OF METALLATED PORPHYRIN-DOPED CONJUGATED POLYMER NANOPARTICLES FOR APPLICATION IN PHOTODYNAMIC THERAPY AGAINST GLIOBLASTOMA" presentado en el congreso AACyTAL 2021. 
