@@ -9,6 +9,10 @@ hide_footer: true
 
 # 2021
 
+#### DICIEMBRE
+>El pasado lunes tuvimos el agrado de recibir en nuestro laboratorio a Deolinda Abate Daga, miembro de la prensa de la UNRC, quien se interiorizó en uno de nuestros proyectos que trata el desarrollo de parches dermatológicos para combatir bacterias resistentes a antibióticos como métodos de terapias alternativas. 
+Compartimos con ustedes la nota que fue publicada en el diario de la ciudad [Puntal](https://www.puntal.com.ar/parches-dermatologicos/desarrollan-parches-dermatologicos-combatir-bacterias-resistentes-los-antibioticos-n154821) y en radio [LV16](https://www.lv16.com.ar/sg/nota-156328/desarrollan-parches-para-combatir-peligrosas-bacterias-resistentes-a-los-antibioticos). 
+
 #### NOVIEMBRE
 > Felicitamos a nuestra becaria doctoral, [Lucia Beaugé](/beauge), por recibir su diploma de grado, en la primera colación presencial y remota número 281, conocé mas en el [link](https://www.unrc.edu.ar/inc/n_completa.php?nota=36244#:~:text=La%20UNRC%20concret%C3%B3%20la%20primera%20colaci%C3%B3n%20presencial%20y%20remota%20de%20su%20historia,-05%20de%20Noviembre&text=Este%20viernes%205%20de%20noviembre,a%20distancia%2C%20en%20cincuenta%20a%C3%B1os). FELICITACIONES FLAMANTE MICROBIÓLOGA!!!!
 
