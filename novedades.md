@@ -10,7 +10,7 @@ hide_footer: true
 # 2022
 
 #### ABRIL
->Las Lic. en Química M. Emilia Zambroni y Rocio Abalos comenzaron sus estudios doctorales en la UNRC bajo la dirección de la [Dra. María L. Gómez](/gomez) y el [Dr. Rodrio E. Palacios](/palacios). 
+>Las Lic. en Química [M. Emilia Zambroni](/zambroni) y [Rocio Ábalos](/abalos) comenzaron sus estudios doctorales en la UNRC bajo la dirección de la [Dra. María L. Gómez](/gomez) y el [Dr. Rodrio E. Palacios](/palacios). 
 El tema de estudio de Emilia consiste en "Dispositivos antibacterianos basados en silsesquioxanos como alternativas a la teparia antibiótica" mientras que el de Rocio "Nanopartículas de polímeros conjugados como sistemas fotoiniciadores de polimerización: Aplicación en el reconocimiento molecular". ¡Éxitos en esta nueva etapa!
 
 #### MARZO
