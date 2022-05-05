@@ -30,11 +30,12 @@ hide_footer: true
 - [Beaugé, Lucia](/beauge) (Microbiología, UNRC)
 - [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
 - [Sosa Lochedino, Arianna](/lochedino) (Química, UNRC, CONICET)
+- [Ábalos, Rocio](/abalos) (Qúimica, UNRC)
+- [Zambroni, Emilia](/zambroni) (Qúimica, UNRC)
 
 ### Estudiantes de Grado
 - [Forcone, Virginia](/forcone) (Física, UNRC)
-- [Ábalos, Rocio](/abalos) (Qúimica, UNRC)
-- [Zambroni, Emilia](/zambroni) (Qúimica, UNRC)
+
 
 ### Equipo Desarrollo Web
 - Wendel, Ana
