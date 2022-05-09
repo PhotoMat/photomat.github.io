@@ -9,6 +9,9 @@ hide_footer: true
 
 # 2022
 
+#### MAYO
+>Nuestro estudiate de doctorado [Lic. Gonzalo Cagnetta](/cagnetta) presentó su poster en el congreso GEP-SLAP 2022 titulado "Wound-healing hydrogels synthetized by photopolymerization to improve skin tissue repair and disinfection". En el mismo se destaca sobre la obtención de hidrogeles biocompatibles  con actividad antimicrobiana utilizados como apositos dermatológicos reutilizables en la desinfeccion y cicatrización de heridas. 
+
 #### ABRIL
 >Las Lic. en Química [M. Emilia Zambroni](/zambroni) y [Rocio Ábalos](/abalos) comenzaron sus estudios doctorales en la UNRC bajo la dirección de la [Dra. María L. Gómez](/gomez) y el [Dr. Rodrio E. Palacios](/palacios). 
 El tema de estudio de Emilia consiste en "Dispositivos antibacterianos basados en silsesquioxanos como alternativas a la teparia antibiótica" mientras que el de Rocio "Nanopartículas de polímeros conjugados como sistemas fotoiniciadores de polimerización: Aplicación en el reconocimiento molecular". ¡Éxitos en esta nueva etapa!
