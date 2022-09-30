@@ -12,9 +12,14 @@ hide_footer: true
 #### SEPTIEMBRE
 >La [Dra. Sol Martínez](/martinez), Investigadora Asistente de CONICET bajo la dirección del Dr. Palacios ha sido galardonada con el premio Giuseppe Cilento de la [Inter-American Photochemical Society (I-APS).](https://i-aps.org/) El premio reconoce a jóvenes de hasta 35 años por su trabajo en el área de la fotoquímica y fotobiología en Latinoamérica. Como parte de este reconocimiento, participará en la conferencia de invierno de la I-APS que será del 4 al 7 de enero de 2023 en Sandestin Miramar Beach, Florida, Estados Unidos. El título de su disertación en esta ocasión será:  Sweet light o’ mine: harnessing the power of phototherapies to eliminate microbes. **Nuestras inmensas felicitaciones a la distancia y a celebrar!!!**
 
+>Publicamos un nuevo review titulado "Sweet light o' mine: Photothermal and photodynamic inactivation of tenacious pathogens using conjugated polymers" en la revista [Journal of Photochemistry and Photobiology B: Biology](https://doi.org/10.1016/j.jphotobiol.2022.112510). En el mismo, se destacan los beneficios en la implementación de nanopartículas de polímeros conjugados como inactivadores fototérmicos y fotodinámicos en la eliminación de bacterias altamente resistentes. 
+
 #### AGOSTO
 >Nuestros estudiantes de doctorado presentaron sus informes en el XXI Encuentro de Superficies y Materiales Nanoestructurados (NANO2022) el mismo se llevó a cabo durante el 9 al 11 de agosto en la ciudad de Río Cuarto, Córdoba. Dicho encuentro convocaba a representantes del sector académico, científico y productivo para discutir el estado del arte, desafíos y avances de distintas áreas de la nanociencia y la nanotecnlogía. 
 Para visualizar los Posters-Flash clickea los links: - [Lic. Gonzalo Cagnetta](https://drive.google.com/file/d/12d23An4QkDGs8zTQdrYKVMc8cy3xh63-/view), [Dr. Emmanuel Odella](https://drive.google.com/file/d/1wlj7JMrI4uXlz1SvCrbuXH6fJvDrGaOe/view), [Lic. Arianna Lochedino](https://drive.google.com/file/d/1_Sybj58oWPgYdgYjJNHAP0tEuBkvqNCY/view), [Lic. Rocío Abalos](https://drive.google.com/file/d/1trqSiMFwMeLAewabrq02S-2rXrNtz6ug/view).
+
+#### JULIO
+>La [Dra. Sol Martínez](/martinez) fue beneficiada con la beca Merit Scholarship program for foreign researchers (PBEEE), Montreal, Canada. Durante su estancia en la universidad de McGill estudiará el impacto de agentes estresores a nivel de bacterias individuales mediante técnicas de microscopía de partícula individual y super resolución.
 
 #### MAYO
 >Nuestro estudiate de doctorado [Lic. Gonzalo Cagnetta](/cagnetta) presentó su poster en el congreso GEP-SLAP 2022 ubicado en San Sebastían - España. El mismo se  titula "Wound-healing hydrogels synthetized by photopolymerization to improve skin tissue repair and disinfection" y se destaca sobre la obtención de hidrogeles biocompatibles  con actividad antimicrobiana utilizados como apositos dermatológicos reutilizables en la desinfeccion y cicatrización de heridas. 
