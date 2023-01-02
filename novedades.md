@@ -7,6 +7,19 @@ show_sidebar: false
 hide_footer: true
 ---
 
+# 2023
+
+#### ENERO
+> **Beca Doctoral FONCyT**<br>
+Tema: Sistemas Fotoiniciadores de Polimerización Basados en Nanopartículas de Polímeros Conjugados Aplicados al Desarrollo de Materiales Promotores de Cicatrización.<br> <br> **Descripción:** Se desarrollarán nuevos sistemas fotoiniciadores de polimerización basados en nanopartículas de polímeros conjugados (PIS-NPC) con propiedades mejoradas para la obtención de materiales poliméricos con aplicación en cicatrización de heridas y reconstrucción de tejidos. Los nuevos PIS-NPC serán empleados para la obtención de materiales capaces de promover la cicatrización empleando un único paso de síntesis y aplicando técnicas avanzadas de fabricación, tales como la foto-impresión 3D. Esta estrategia no solo permitirá incluir agentes promotores de cicatrización en la mezcla pre-polimérica sino que además permitirá la obtención de materiales con morfologías complejas (por ej. andamios) que favorecen la regeneración de tejidos.<br> <br>
+**Requisitos de la persona que postula:** Graduado/a en Lic. en Química, Ingeniería Química, Lic. en Biotecnología o carreras afines. Aptitud para trabajar en equipo multidisciplinario y motivación por la investigación. Se valorarán antecedentes en síntesis orgánica o de polímeros y manejo de idiomas. <br><br>
+**Inicio de la Beca:** 01/04/2023<br>
+**Cierre del concurso:** 5/02/2023<br>
+**Estipendio mensual:** $157842<br>
+**Director de la Beca:** Dr. Rodrigo E. Palacios<br>
+**Institución:** IITEMA-CONICET. Departamento de Química, Universidad Nacional de Río Cuarto. Ruta Nac. 36, Km 601, Río Cuarto (5800), Córdoba. 
+
+
 # 2022
 
 #### SEPTIEMBRE
