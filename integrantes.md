@@ -32,7 +32,7 @@ hide_footer: true
 - [Sosa Lochedino, Arianna](/lochedino) (Química, UNRC, CONICET)
 - [Ábalos, Rocio](/abalos) (Química, UNRC)
 - [Zambroni, Emilia](/zambroni) (Química, UNRC)
-- [Urquiza, Rodrigo](/zambroni) (Química, UNRC)
+- [Urquiza, Rodrigo](/urquiza) (Química, UNRC)
 
 ### Equipo Desarrollo Web
 - Wendel, Ana

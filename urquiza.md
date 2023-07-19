@@ -2,7 +2,7 @@
 title: Rodrigo Urquiza
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. de Química, UNRC<br>Estudiante de Licenciatura en Química
-image: H:\Otros ordenadores\Mi PC\Doctorado\Web\photomat.github.io\img\urquiza.png 
+image: /img/urquiza.jpg
 email: rodrigou2014@gmail.com
 layout: integrante
 callouts:
