@@ -9,6 +9,14 @@ hide_footer: true
 
 # 2023
 
+#### MAYO
+>Nuestro estudiate de doctorado [Med. Vet. Matías Caverzán](/caverzan) viajará al instituto Icahn School of Medicine at [Mount Sinai](https://icahn.mssm.edu/about/departments/oncological-sciences) que forma parte del departamento de ciencias oncológicas, ubicado en Nueva York, USA.
+
+>Las Lic. [Emilia Zambroni](/zambroni) y [Rocío Abalos](/abalos) viajarán a la universidad de UPV/EHU, ubicada en San Sebastián, España bajo el proyecto [IONBIKE RISE 2023](https://ionbike-rise.eu/). Su trabajo se sentrará en la síntesis y caracterización de polímeros conjugados aplicados en fotopolimerizacion 3D dirigido por el Dr. David Mecerreyes durante un período de 6 meses. Éxitos en la estancia! 
+
+#### MARZO
+>El Dr. [Carlos Chesta](/chesta) viajará a la universidad de UPV/EHU, ubicada en San Sebastián-España bajo el proyecto [IONBIKE RISE 2023](https://ionbike-rise.eu/2022-secondments-are-underway/). Con el objetivo de entablar conexiones y nuevos proyectos de trabajo. Además, trabajará en la síntesis y caracterización de polímeros conjugados durante un período de 3 meses.  
+
 #### ENERO
 > **Beca Doctoral FONCyT**<br>
 **Tema:** Sistemas Fotoiniciadores de Polimerización Basados en Nanopartículas de Polímeros Conjugados Aplicados al Desarrollo de Materiales Promotores de Cicatrización.<br> <br> **Descripción:** Se desarrollarán nuevos sistemas fotoiniciadores de polimerización basados en nanopartículas de polímeros conjugados (PIS-NPC) con propiedades mejoradas para la obtención de materiales poliméricos con aplicación en cicatrización de heridas y reconstrucción de tejidos. Los nuevos PIS-NPC serán empleados para la obtención de materiales capaces de promover la cicatrización empleando un único paso de síntesis y aplicando técnicas avanzadas de fabricación, tales como la foto-impresión 3D. Esta estrategia no solo permitirá incluir agentes promotores de cicatrización en la mezcla pre-polimérica sino que además permitirá la obtención de materiales con morfologías complejas (por ej. andamios) que favorecen la regeneración de tejidos.<br> <br>

@@ -1,7 +1,7 @@
 ---
 title: Dr. Carlos Chesta
 subtitle: Grupo de Fotoquímica y Materiales
-dpto: Dpto. Química, UNRC<br>Investigador Independiente CONICET
+dpto: Dpto. Química, UNRC<br>Investigador Principal CONICET
 layout: integrante
 image: /img/cchesta.jpg
 orcid: 0000-0002-7944-1911

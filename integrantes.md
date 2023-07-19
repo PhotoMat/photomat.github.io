@@ -8,7 +8,7 @@ hide_footer: true
 ---
 
 ### Investigadores Principales
-- [Chesta, Carlos A.](/chesta) (Dpto. Química, UNRC - Investigador Independiente CONICET)
+- [Chesta, Carlos A.](/chesta) (Dpto. Química, UNRC - Investigador Principal CONICET)
 - [Gomez, M. Lorena](/gomez)  (Dpto. Química, UNRC - Investigadora Independiente CONICET)
 - [Palacios, Rodrigo E.](/palacios) (Dpto. Química, UNRC  - Investigador Independiente CONICET)
 
@@ -30,12 +30,9 @@ hide_footer: true
 - [Beaugé, Lucia](/beauge) (Microbiología, UNRC)
 - [Carvezán, Matías](/carvezan) (Dpto. Biología Molecular, UNRC)
 - [Sosa Lochedino, Arianna](/lochedino) (Química, UNRC, CONICET)
-- [Ábalos, Rocio](/abalos) (Qúimica, UNRC)
-- [Zambroni, Emilia](/zambroni) (Qúimica, UNRC)
-
-### Estudiantes de Grado
-- [Forcone, Virginia](/forcone) (Física, UNRC)
-
+- [Ábalos, Rocio](/abalos) (Química, UNRC)
+- [Zambroni, Emilia](/zambroni) (Química, UNRC)
+- [Urquiza, Rodrigo](/zambroni) (Química, UNRC)
 
 ### Equipo Desarrollo Web
 - Wendel, Ana

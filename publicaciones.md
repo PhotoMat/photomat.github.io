@@ -7,8 +7,16 @@ show_sidebar: false
 hide_footer: true
 ---
 
+## 2023
+- "Why and how could an aliphatic bridge allow for a long-range photoinduced charge separation in Tröger’s bases derivatives", P.A. Lanza, D. Dusso,L.D. Mena, A.R. Parise, E.L. Moyano, C.A. Chesta & D.M.A. Vera, Journal of Photochemistry and Photobiology A: Chemistry 441, (2023), 114699, [DOI](https://doi.org/10.1016/j.jphotochem.2023.114699)
+- "Metronomic Photodynamic Therapy with Conjugated Polymer Nanoparticles in Glioblastoma Tumor Microenvironment", M.D. Caverzán, P.M. Oliveda, L. Beaugé, R.E. Palacios, C.A. Chesta & L.E. Ibarra, cells 12, (2023), 1541, [DOI](https://doi.org/10.3390/cells12111541)
+- "Mechanism of Synthesis of Tröger and Spiro‐Tröger Base Derivatives Starting from Naphthyl‐and Anthracenylamines: A Computational Study", D. Dusso, P.A. Lanza, A.R. Parise, M. Havlík, A. Tatar, C.A. Chesta, & D.M.A. Vera, ChemistrySelect 8, (2023), e202300275, [DOI](https://doi.org/10.1002/slct.202300275)
+- "Reusable antimicrobial antibiotic-free dressings obtained by photopolymerization", G.E. Cagnetta, S.R. Martínez, L.E. Ibarra, A. Gallastegui, J.F.Martucci, R.E. Palacios, C.A. Chesta & M.L. Gómez, Biomaterials Advances 149, (2023), 213399, [DOI](https://doi.org/10.1016/j.bioadv.2023.213399)
+- "Fast Visible-Light Photopolymerization in the Presence of Multiwalled Carbon Nanotubes: Toward 3D Printing Conducting Nanocomposites", A. Gallastegui, A. Dominguez-Alfaro, L. Lezama, N. Alegret, M. Prato, M.L Gómez, D. Mecerreyes, ACS Macro Letters 11, (2023), 303, [DOI](https://doi.org/10.1021/acsmacrolett.1c00758)
+- "Experimental, Spectroscopic, and Computational Insights into the Reactivity of “Methanal” with 2-Naphthylamines", M. Havlík, T. Navrátilová, M.Drozdová, A. Tatar, P.A. Lanza, D. Dusso, C.A. Chesta & B. Dolenský, Molecules 28, (2023), 1549, [DOI](https://doi.org/10.3390/molecules28041549)
 ## 2022
-- "Sweet light o' mine: Photothermal and photodynamic inactivation of tenacious pathogens using conjugated polymers", R.A. Ponzio, L.E. Ibarra, E.E. Achilli, E. Odella, C.A. Chesta, S.R. Martínez, R.E. Palacios, Journal of Photochemistry and Photobiology B: Biology 234, (2022), 112510, DOI: [doi.org/10.1016/j.jphotobiol.2022.112510](https://doi.org/10.1016/j.jphotobiol.2022.112510)
+- "Selective Photo-Assisted Eradication of Triple-Negative Breast Cancer Cells through Aptamer Decoration of Doped Conjugated Polymer Nanoparticles", L.E. Ibarra, S. Camorani, L. Agnello, E. Pedone, L. Pirone, C.A. Chesta, R.E. Palacios, M. Fedele & L. Cerchia, Pharmaceutics 14, (2022), 626, [DOI](https://doi.org/10.3390/pharmaceutics14030626)
+- "Sweet light o' mine: Photothermal and photodynamic inactivation of tenacious pathogens using conjugated polymers", R.A. Ponzio, L.E. Ibarra, E.E. Achilli, E. Odella, C.A. Chesta, S.R. Martínez, R.E. Palacios, Journal of Photochemistry and Photobiology B: Biology 234, (2022), 112510, [DOI](https://doi.org/10.1016/j.jphotobiol.2022.112510)
 
 ## 2020
 - "An amine linker group modulates luminescent properties in a Rhenium(I) tricarbonyl complex. How can it be applied for ratiometric oxygen sensing?", E. Valdés, M. Cepeda-Plaza, G. Günther, A. Vega, R. Palacios, M.L. Gómez, N. Pizarro, Dyes and Pigments, (2020)  172:107787, ISSN 0143-7208, DOI: 10.1016/j.dyepig.2019.107787.
