@@ -4,7 +4,7 @@ subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Química, UNRC<br>Estudiante doctoral CONICET
 image: /img/cagnetta.jpg
 cv: drive.google.com/file/d/1mvC-Pp8x07I9uTSyldwaE-ttLZ0HznGB/view
-ORCID: https://orcid.org/0009-0004-9002-0319
+ORCID: 0009-0004-9002-0319
 email: gcagnetta@exa.unrc.edu.ar
 layout: integrante
 callouts:
