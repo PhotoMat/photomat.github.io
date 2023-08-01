@@ -1,14 +1,14 @@
 ---
-title: Lázaro A. Palacios
+title:  Lázaro A. Palacios
 subtitle: Grupo de Fotoquímica y Materiales
 dpto: Dpto. Física, UNRC
 image: 
 cv: 
-email: @gmail.com
+email: 
 layout: integrante
 callouts:
 show_sidebar: false
 hide_footer: true
 ---
 
-> Estudiante de Lic. en Física
+> Estudiante de Licenciatura en Física. 
