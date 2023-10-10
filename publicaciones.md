@@ -8,6 +8,7 @@ hide_footer: true
 ---
 
 ## 2023
+- "Conjugated Polymer Nanoparticles as Sonosensitizers in Sono-Inactivation of a Broad Spectrum of Pathogens", S.R. Martínez, E. Odella, L.E. Ibarra, A. Sosa Lochedino, A.B. Wendel, A.M. Durantini, C.A. Chesta, R.E. Palacio, ultrasonics, (2023), 107180, [DOI](https://doi.org/10.1016/j.ultras.2023.107180)
 - "Why and how could an aliphatic bridge allow for a long-range photoinduced charge separation in Tröger’s bases derivatives", P.A. Lanza, D. Dusso,L.D. Mena, A.R. Parise, E.L. Moyano, C.A. Chesta & D.M.A. Vera, Journal of Photochemistry and Photobiology A: Chemistry 441, (2023), 114699, [DOI](https://doi.org/10.1016/j.jphotochem.2023.114699)
 - "Metronomic Photodynamic Therapy with Conjugated Polymer Nanoparticles in Glioblastoma Tumor Microenvironment", M.D. Caverzán, P.M. Oliveda, L. Beaugé, R.E. Palacios, C.A. Chesta & L.E. Ibarra, cells 12, (2023), 1541, [DOI](https://doi.org/10.3390/cells12111541)
 - "Mechanism of Synthesis of Tröger and Spiro‐Tröger Base Derivatives Starting from Naphthyl‐and Anthracenylamines: A Computational Study", D. Dusso, P.A. Lanza, A.R. Parise, M. Havlík, A. Tatar, C.A. Chesta, & D.M.A. Vera, ChemistrySelect 8, (2023), e202300275, [DOI](https://doi.org/10.1002/slct.202300275)
