@@ -9,6 +9,9 @@ hide_footer: true
 
 # 2023
 
+#### OCTUBRE
+>Publicamos un nuevo trabajo titulado "Conjugated Polymer Nanoparticles as Sonosensitizers in Sono-Inactivation of a Broad Spectrum of Pathogens" en la revista [Ultrasonics](https://doi.org/10.1016/j.ultras.2023.107180). En el mismo, se destacan los beneficios en la implementación de nanopartículas de polímeros conjugados como sonosensibilizadores en tecnologías de inactivación sonodinámica de forma reproducible. Los sonosensibilizadores lograron la eliminación de un amplio espectro de patógenos. 
+
 #### MAYO
 >Nuestro estudiate de doctorado [Med. Vet. Matías Caverzán](/caverzan) viajará al instituto Icahn School of Medicine at [Mount Sinai](https://icahn.mssm.edu/about/departments/oncological-sciences) que forma parte del departamento de ciencias oncológicas, ubicado en Nueva York, USA.
 
